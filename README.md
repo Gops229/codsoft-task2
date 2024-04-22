@@ -2,7 +2,7 @@
 
 This project is a simple digital clock developed using HTML, CSS, and JavaScript. It displays the current time in real-time, updating every second.
 
-![screenshot]()
+![screenshot](dig-clock.png)
 
 # Features
 Displays hours, minutes, and seconds.
